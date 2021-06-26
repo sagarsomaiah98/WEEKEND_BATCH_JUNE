@@ -1,0 +1,25 @@
+
+public class Data_type {
+	
+	
+	
+	
+	public static void main(String args[])
+	
+	
+	{
+	
+		
+		int num=-200;
+		double a=3.5;
+		
+		System.out.println(num);
+		System.out.println("a");
+		
+		
+	
+	}
+	
+	
+		
+}

@@ -1,0 +1,16 @@
+
+public class Comments {
+
+	public static void main(String[] args) {
+		
+		
+		System.out.println("Welcome to training");
+		
+		System.out.println("Welcome to selenium training");
+		
+		System.out.println("Welcome to java training");
+		
+
+	}
+
+}

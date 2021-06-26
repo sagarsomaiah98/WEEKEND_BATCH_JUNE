@@ -1,0 +1,29 @@
+
+public class Data_type {
+	
+	
+	
+	
+	public static void main(String args[])
+	
+	
+	{
+	
+		
+		int num=-200;
+		double a=3.5;
+		char j='P';
+		String name="john";
+		
+		System.out.println(num);
+		System.out.println(a);
+		System.out.println(j);
+		System.out.println(name);
+		
+		
+	
+	}
+	
+	
+		
+}
