@@ -30,6 +30,8 @@ System.setProperty("webdriver.chrome.driver","D:\\JARS\\jar_files\\chromedriver\
 
 		action.moveToElement(element).build().perform();// perform mouse hover
 		
+		
+		
 		Thread.sleep(3000);
 		
 		driver.findElement(By.xpath("//span[contains(text(),'Free Deep Learning eBooks')]")).click(); // click on the element

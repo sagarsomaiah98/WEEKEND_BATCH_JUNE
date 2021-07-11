@@ -23,10 +23,16 @@ System.setProperty("webdriver.chrome.driver","D:\\JARS\\jar_files\\chromedriver\
 		Thread.sleep(3000);
 		
 		WebElement ele=driver.findElement(By.xpath("//button[@id='rightClickBtn']"));
+	//	WebElement check=driver.findElement(By.xpath("//span[contains(text(),'Check Box')]"));
 		
 		Actions action= new Actions(driver);
 		action.contextClick(ele).perform();
 		Thread.sleep(3000);
+		
+		//WebElement ele1=driver.findElement(By.xpath("//button[@id='doubleClickBtn']"));
+		
+		//action.doubleClick(ele1).perform();
+		
 		
 		System.out.println("done");
 

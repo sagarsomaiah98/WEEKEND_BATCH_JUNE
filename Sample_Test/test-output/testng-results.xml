@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-11T21:02:12 IST" name="Default suite" finished-at="2021-07-11T21:02:19 IST" duration-ms="7293">
+    <groups>
+    </groups>
+    <test started-at="2021-07-11T21:02:12 IST" name="Default test" finished-at="2021-07-11T21:02:19 IST" duration-ms="7293">
+      <class name="Login_test">
+        <test-method signature="login()[pri:0, instance:Login_test@732c2a62]" started-at="2021-07-11T21:02:12 IST" name="login" finished-at="2021-07-11T21:02:19 IST" duration-ms="7238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Login_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

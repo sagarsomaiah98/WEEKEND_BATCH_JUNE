@@ -11,15 +11,16 @@ public class Scrolling extends TestBase {
 		Thread.sleep(3000);
 		
 		JavascriptExecutor js = (JavascriptExecutor) driver;
-		js.executeScript("window.scrollBy(0,5000)");
+		js.executeScript("window.scrollBy(0,2000)");
 		Thread.sleep(3000);
+		js.executeScript("window.scrollTo(2000,0)");
 		/*
 		 * js.executeScript("window.scrollBy(0,100)"); Thread.sleep(3000);
 		 * js.executeScript("window.scrollBy(0,100)"); Thread.sleep(3000);
 		 * js.executeScript("window.scrollBy(0,100)"); Thread.sleep(3000);
 		 */
 		
-		js.executeScript("window.scrollTo(1000,0)");
+		//js.executeScript("window.scrollTo(1000,0)");
 		
 		
 

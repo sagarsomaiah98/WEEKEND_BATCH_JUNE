@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SAUCE_TEST_SUITE">
+  <test thread-count="5" name="SAUCE_TEST">
+    <classes>
+    <class name="com.janbask.sauceDemo.Sauce_login"/>
+
+      <class name="com.janbask.sauceDemo.Sauce_AddToCart"/>
+      <class name="com.janbask.sauceDemo.Sauce_LogOut"/>
+    </classes>
+  </test> <!-- SAUCE_TEST -->
+</suite> <!-- SAUCE_TEST_SUITE -->

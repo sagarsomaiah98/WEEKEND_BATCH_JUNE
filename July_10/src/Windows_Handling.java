@@ -19,24 +19,47 @@ System.setProperty("webdriver.chrome.driver","D:\\JARS\\jar_files\\chromedriver\
 		driver.manage().window().maximize();
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("//a[@id='privacy-link']")).click();
+		//driver.findElement(By.xpath("//a[@id='privacy-link']")).click();
+		
 		
 		Thread.sleep(3000);
 		Set<String> windows= driver.getWindowHandles();
+		
+		System.out.println("Size of windows  == "+windows.size());
+		
 		Iterator<String> it = windows.iterator();
 		
-		  String parent= it.next();
-	     String child= it.next();
-	     
-	     System.out.println("Parent window --> "+parent);
-	     System.out.println("child  window --> "+child);
-	     
-	    // driver.switchTo().window(child);
+		/*
+		 * System.out.println(it.next()); System.out.println(it.next());
+		 * System.out.println(it.next());
+		 */
 		
-	     Thread.sleep(3000);
-		driver.findElement(By.linkText("Our Story")).click();
+		String main=it.next();
+		String child=it.next();
+		
+		driver.switchTo().window(child);
 		Thread.sleep(3000);
-		driver.close();
+		driver.findElement(By.xpath("//span[contains(text(),'Learn more')]")).click();
 		
+		Thread.sleep(3000);
+		driver.quit();
+		
+		
+		
+		
+		/*
+		 * Iterator<String> it = windows.iterator();
+		 * 
+		 * String parent= it.next(); String child= it.next();
+		 * 
+		 * System.out.println("Parent window --> "+parent);
+		 * System.out.println("child  window --> "+child);
+		 * 
+		 * // driver.switchTo().window(child);
+		 * 
+		 * Thread.sleep(3000); driver.findElement(By.linkText("Our Story")).click();
+		 * Thread.sleep(3000); driver.close();
+		 */
 
 	}
 
