@@ -7,13 +7,15 @@ When Enter the  password "admin123"
 And Click Submit
 Then Login Successful
 
+@Smoke
 Scenario: Compose mail
  When I enter to address
  When I enter subject
  When I enter body
  Then I click send
  
- Scenario: Compose mail
+ @Regression @Smoke
+ Scenario: Draft mail
  When I enter to address
  When I enter subject
  When I enter body

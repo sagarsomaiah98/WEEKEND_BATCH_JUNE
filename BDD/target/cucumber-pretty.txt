@@ -1,0 +1,20 @@
+@All
+Feature: compose
+
+  @Smoke
+  Scenario: Composing a mail [90m# resources/Features/compose.feature:4[0m
+    [32mGiven [0m[32mthe credentials[0m    [90m# Compose_StepDefinition.the_credentials()[0m
+    [32mWhen [0m[32mI click compose[0m     [90m# Compose_StepDefinition.i_click_compose()[0m
+    [32mThen [0m[32mmail sent[0m           [90m# Compose_StepDefinition.mail_sent()[0m
+
+  @Full
+  Scenario: oneselft compose [90m# resources/Features/compose.feature:12[0m
+    [32mGiven [0m[32mTo address[0m         [90m# Compose_StepDefinition.to_address()[0m
+    [32mWhen [0m[32mI enter self[0m        [90m# Compose_StepDefinition.i_enter_self()[0m
+    [32mThen [0m[32mI send[0m              [90m# Compose_StepDefinition.i_Send()[0m
+
+  @Regression
+  Scenario: Multiple select [90m# resources/Features/compose.feature:18[0m
+    [32mGiven [0m[32mmulti select[0m      [90m# Compose_StepDefinition.multi_select()[0m
+    [32mWhen [0m[32mmulti details[0m      [90m# Compose_StepDefinition.multi_details()[0m
+    [32mThen [0m[32mI send[0m             [90m# Compose_StepDefinition.i_Send()[0m

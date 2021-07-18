@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.336867">
+    <testcase classname="compose" name="Composing a mail" time="0.335856">
+        <system-out><![CDATA[Given the credentials.......................................................passed
+When I click compose........................................................passed
+Then mail sent..............................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="compose" name="oneselft compose" time="0.00047">
+        <system-out><![CDATA[Given To address............................................................passed
+When I enter self...........................................................passed
+Then I send.................................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="compose" name="Multiple select" time="0.000541">
+        <system-out><![CDATA[Given multi select..........................................................passed
+When multi details..........................................................passed
+Then I send.................................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

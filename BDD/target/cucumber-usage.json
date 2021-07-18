@@ -1,0 +1,150 @@
+[
+  {
+    "source": "^To address$",
+    "steps": [
+      {
+        "name": "To address",
+        "aggregatedDurations": {
+          "average": 0.000115701,
+          "median": 0.000115701
+        },
+        "durations": [
+          {
+            "duration": 0.000115701,
+            "location": "resources/Features/compose.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^multi details$",
+    "steps": [
+      {
+        "name": "multi details",
+        "aggregatedDurations": {
+          "average": 0.0001417,
+          "median": 0.0001417
+        },
+        "durations": [
+          {
+            "duration": 0.0001417,
+            "location": "resources/Features/compose.feature:20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^the credentials$",
+    "steps": [
+      {
+        "name": "the credentials",
+        "aggregatedDurations": {
+          "average": 0.335258499,
+          "median": 0.335258499
+        },
+        "durations": [
+          {
+            "duration": 0.335258499,
+            "location": "resources/Features/compose.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I enter self$",
+    "steps": [
+      {
+        "name": "I enter self",
+        "aggregatedDurations": {
+          "average": 0.0000904,
+          "median": 0.0000904
+        },
+        "durations": [
+          {
+            "duration": 0.0000904,
+            "location": "resources/Features/compose.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I send$",
+    "steps": [
+      {
+        "name": "I send",
+        "aggregatedDurations": {
+          "average": 0.00009055,
+          "median": 0.00009055
+        },
+        "durations": [
+          {
+            "duration": 0.0001027,
+            "location": "resources/Features/compose.feature:15"
+          },
+          {
+            "duration": 0.000078401,
+            "location": "resources/Features/compose.feature:21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^multi select$",
+    "steps": [
+      {
+        "name": "multi select",
+        "aggregatedDurations": {
+          "average": 0.000138699,
+          "median": 0.000138699
+        },
+        "durations": [
+          {
+            "duration": 0.000138699,
+            "location": "resources/Features/compose.feature:19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^mail sent$",
+    "steps": [
+      {
+        "name": "mail sent",
+        "aggregatedDurations": {
+          "average": 0.000087001,
+          "median": 0.000087001
+        },
+        "durations": [
+          {
+            "duration": 0.000087001,
+            "location": "resources/Features/compose.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click compose$",
+    "steps": [
+      {
+        "name": "I click compose",
+        "aggregatedDurations": {
+          "average": 0.0000815,
+          "median": 0.0000815
+        },
+        "durations": [
+          {
+            "duration": 0.0000815,
+            "location": "resources/Features/compose.feature:8"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -14,6 +14,6 @@ public class Hooks {
 	@After
 	public void after() {
 		
-		System.out.println("after");
+		System.out.println("after scenario");
 	}
 }

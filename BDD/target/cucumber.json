@@ -1,0 +1,240 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 348400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.before()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Composing a mail",
+        "description": "",
+        "id": "compose;composing-a-mail",
+        "after": [
+          {
+            "result": {
+              "duration": 80700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 335258499,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the credentials",
+            "match": {
+              "location": "Compose_StepDefinition.the_credentials()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 81500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click compose",
+            "match": {
+              "location": "Compose_StepDefinition.i_click_compose()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 87001,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "mail sent",
+            "match": {
+              "location": "Compose_StepDefinition.mail_sent()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@Smoke"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 82400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.before()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "oneselft compose",
+        "description": "",
+        "id": "compose;oneselft-compose",
+        "after": [
+          {
+            "result": {
+              "duration": 79100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 115701,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "To address",
+            "match": {
+              "location": "Compose_StepDefinition.to_address()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 90400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter self",
+            "match": {
+              "location": "Compose_StepDefinition.i_enter_self()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 102700,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I send",
+            "match": {
+              "location": "Compose_StepDefinition.i_Send()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@Full"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 72600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.before()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Multiple select",
+        "description": "",
+        "id": "compose;multiple-select",
+        "after": [
+          {
+            "result": {
+              "duration": 109400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 138699,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "multi select",
+            "match": {
+              "location": "Compose_StepDefinition.multi_select()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 141700,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "multi details",
+            "match": {
+              "location": "Compose_StepDefinition.multi_details()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 78401,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I send",
+            "match": {
+              "location": "Compose_StepDefinition.i_Send()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 17,
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "compose",
+    "description": "",
+    "id": "compose",
+    "keyword": "Feature",
+    "uri": "resources/Features/compose.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@All"
+      }
+    ]
+  }
+]
