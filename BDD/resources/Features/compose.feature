@@ -16,4 +16,4 @@ Then I send
 Scenario: Multiple select
 Given  multi select
 When  multi details
-Then  I Send
+Then  I send

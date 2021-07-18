@@ -8,7 +8,8 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)				
 @CucumberOptions(
 features={"resources\\Features\\Login.feature"},
-glue={"StepDefiniton"})
+glue={"StepDefiniton","Util"})
+//tags= {"@All"})
 public class Test_Runner {
 
 }
