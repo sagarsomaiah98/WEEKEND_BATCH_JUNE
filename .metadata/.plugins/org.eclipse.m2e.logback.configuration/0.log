@@ -777,3 +777,202 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 2021-07-18 21:06:00,346 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\Cucumber_BDD\src\main\resources
 2021-07-18 21:06:00,348 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-18 21:06:00,348 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\Cucumber_BDD\src\test\resources
+2021-07-24 09:00:38,130 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-07-24 09:04:50,772 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\pom.xml
+2021-07-24 09:04:58,544 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DATA_PARAMETRIZATION:DATA_PARAMETRIZATION:0.0.1-SNAPSHOT @ D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\pom.xml.
+2021-07-24 09:04:59,985 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DATA_PARAMETRIZATION/src/main/java
+2021-07-24 09:04:59,995 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DATA_PARAMETRIZATION/src/test/java
+2021-07-24 09:05:00,107 [Worker-21: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2021-07-24 09:05:00,872 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:05:00,873 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:05:00,878 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:05:00,878 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:39:37,621 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DATA_PARAMETRIZATION:DATA_PARAMETRIZATION:0.0.1-SNAPSHOT @ D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\pom.xml.
+2021-07-24 09:39:39,066 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:39:39,067 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:39:39,072 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:39:39,073 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:39:40,491 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:39:40,491 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:39:40,494 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:39:40,494 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:40:10,260 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:40:10,260 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:40:10,262 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:40:10,263 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:40:23,762 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:40:23,762 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:40:23,767 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:40:23,768 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:40:55,435 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:40:55,436 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:40:55,438 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:40:55,438 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:41:11,276 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:41:11,277 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:41:11,279 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:41:11,280 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:41:36,948 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:41:36,948 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:41:36,953 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:41:36,953 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:41:54,364 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:41:54,365 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:41:54,373 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:41:54,374 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:42:03,564 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:42:03,565 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:42:03,568 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:42:03,569 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:42:15,545 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:42:15,546 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:42:15,549 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:42:15,549 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:42:23,661 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:42:23,662 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:42:23,665 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:42:23,665 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:47:17,895 [Worker-26: Launching Login_Data_Testing] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:47:17,896 [Worker-26: Launching Login_Data_Testing] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:47:17,901 [Worker-26: Launching Login_Data_Testing] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:47:17,902 [Worker-26: Launching Login_Data_Testing] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:47:51,393 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:47:51,393 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:47:51,397 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:47:51,398 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 09:49:45,686 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:49:45,687 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 09:49:45,690 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 09:49:45,690 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 10:07:50,336 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:07:50,336 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 10:07:50,340 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:07:50,341 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 10:08:39,158 [Worker-39: Launching Login_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:08:39,158 [Worker-39: Launching Login_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 10:08:39,164 [Worker-39: Launching Login_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:08:39,164 [Worker-39: Launching Login_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 10:09:43,285 [Worker-37: Launching Login_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:09:43,286 [Worker-37: Launching Login_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 10:09:43,289 [Worker-37: Launching Login_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:09:43,290 [Worker-37: Launching Login_Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 10:12:54,253 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:12:54,253 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 10:12:54,256 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:12:54,256 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 10:14:30,351 [Worker-41: Launching Executing test in D__JANBASK_WEEKEND_WORKSPACE_BATCH1_Sample_Test] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\Sample_Test
+2021-07-24 10:14:30,357 [Worker-41: Launching Executing test in D__JANBASK_WEEKEND_WORKSPACE_BATCH1_Sample_Test] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-07-24 10:19:12,421 [Worker-46: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pom.crm:POM_CRM:0.0.1-SNAPSHOT @ D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\POM_CRM\pom.xml.
+2021-07-24 10:19:12,925 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:19:12,926 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\POM_CRM\src\main\resources
+2021-07-24 10:19:12,929 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:19:12,930 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\POM_CRM\src\test\resources
+2021-07-24 10:19:13,751 [Worker-46: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pom.crm:POM_CRM:0.0.1-SNAPSHOT @ D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\POM_CRM\pom.xml.
+2021-07-24 10:19:14,701 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:19:14,702 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\POM_CRM\src\main\resources
+2021-07-24 10:19:14,705 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:19:14,705 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\POM_CRM\src\test\resources
+2021-07-24 10:19:29,672 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-07-24 10:19:30,441 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DATA_PARAMETRIZATION:DATA_PARAMETRIZATION:0.0.1-SNAPSHOT @ D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\pom.xml.
+2021-07-24 10:19:30,763 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pom.crm:POM_CRM:0.0.1-SNAPSHOT @ D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\POM_CRM\pom.xml.
+2021-07-24 10:19:31,569 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /POM_CRM/src/main/java
+2021-07-24 10:19:31,571 [Worker-48: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /POM_CRM/src/test/java
+2021-07-24 10:19:32,156 [Worker-48: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2021-07-24 10:19:32,626 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:19:32,627 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 10:19:32,630 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:19:32,631 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 10:19:32,911 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:19:32,911 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\POM_CRM\src\main\resources
+2021-07-24 10:19:32,913 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 10:19:32,914 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\POM_CRM\src\test\resources
+2021-07-24 10:19:46,101 [Worker-40: Launching Executing test in D__JANBASK_WEEKEND_WORKSPACE_BATCH1_POM_CRM] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\POM_CRM
+2021-07-24 10:19:46,101 [Worker-40: Launching Executing test in D__JANBASK_WEEKEND_WORKSPACE_BATCH1_POM_CRM] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-07-24 19:27:27,073 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-07-24 19:47:44,854 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:47:44,862 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 19:47:44,865 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:47:44,865 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 19:49:38,987 [Worker-4: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:49:38,988 [Worker-4: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 19:49:38,992 [Worker-4: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:49:38,992 [Worker-4: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 19:49:49,451 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:49:49,451 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 19:49:49,455 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:49:49,455 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 19:50:25,173 [Worker-4: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:50:25,173 [Worker-4: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 19:50:25,175 [Worker-4: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:50:25,175 [Worker-4: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 19:50:33,142 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:50:33,142 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 19:50:33,145 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:50:33,146 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 19:52:13,216 [Worker-28: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:52:13,216 [Worker-28: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 19:52:13,218 [Worker-28: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:52:13,218 [Worker-28: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 19:53:59,296 [Worker-4: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:53:59,297 [Worker-4: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 19:53:59,300 [Worker-4: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:53:59,301 [Worker-4: Launching Write_Excel] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 19:54:00,463 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:54:00,463 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 19:54:00,468 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:54:00,468 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 19:54:01,498 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:54:01,499 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 19:54:01,501 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 19:54:01,501 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:00:37,794 [Worker-33: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:00:37,795 [Worker-33: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 20:00:37,797 [Worker-33: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:00:37,797 [Worker-33: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:00:38,819 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:00:38,819 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 20:00:38,821 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:00:38,821 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:01:51,154 [Worker-35: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:01:51,154 [Worker-35: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 20:01:51,156 [Worker-35: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:01:51,157 [Worker-35: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:01:52,333 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:01:52,333 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 20:01:52,335 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:01:52,336 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:02:06,771 [Worker-36: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:02:06,771 [Worker-36: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 20:02:06,773 [Worker-36: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:02:06,774 [Worker-36: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:02:23,603 [Worker-34: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:02:23,603 [Worker-34: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 20:02:23,605 [Worker-34: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:02:23,606 [Worker-34: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:03:09,451 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:03:09,451 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 20:03:09,457 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:03:09,457 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:03:45,233 [Worker-37: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:03:45,234 [Worker-37: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 20:03:45,236 [Worker-37: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:03:45,237 [Worker-37: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:06:27,297 [Worker-37: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:06:27,298 [Worker-37: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 20:06:27,300 [Worker-37: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:06:27,300 [Worker-37: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:06:28,473 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:06:28,473 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 20:06:28,474 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:06:28,475 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:08:06,792 [Worker-37: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:08:06,792 [Worker-37: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 20:08:06,794 [Worker-37: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:08:06,795 [Worker-37: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:08:54,925 [Worker-34: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:08:54,925 [Worker-34: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\main\resources
+2021-07-24 20:08:54,928 [Worker-34: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-24 20:08:54,928 [Worker-34: Launching Read] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\DATA_PARAMETRIZATION\src\test\resources
+2021-07-24 20:43:52,362 [Worker-46: Launching Executing test in D__JANBASK_WEEKEND_WORKSPACE_BATCH1_POM_CRM] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JANBASK\WEEKEND_WORKSPACE_BATCH1\POM_CRM
+2021-07-24 20:43:52,389 [Worker-46: Launching Executing test in D__JANBASK_WEEKEND_WORKSPACE_BATCH1_POM_CRM] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-07-24 20:47:50,421 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
